@@ -1,7 +1,6 @@
 <template>
   <h1>Hello Harish Raghav</h1>
   <h2>Nice to meet you</h2>
-  <h3>Welcome to Vue 3</h3>
 </template>
 
 <script>
